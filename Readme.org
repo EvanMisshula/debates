@@ -22,7 +22,9 @@ software can seem ethically neutral or irrelevant. Many DHers, for
 example, use open-source software as a matter of principle, in support
 of the ethical imperatives for sharing and transparency. But the DH
 community doesn’t tend to be super reflective about the ethics of the
-software it uses. So, in this piece, we intend to offer both tools and
+software it uses. For example, many times free software is used for
+analysis but data is not shared which prevents confirmarory analysis
+or challenge.  So, in this piece, we intend to offer both tools and
 controversial positions:
 
 - a primer on software ethics, especially the implications of “free
